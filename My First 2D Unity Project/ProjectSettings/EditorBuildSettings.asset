@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Labs/Lab1/Lab1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Project/Scenes/Intro Scene.unity
+    guid: d292389c03039402db0a9e816acd3d0f
+  - enabled: 1
+    path: Assets/Project/Scenes/Demo.unity
+    guid: 8e96d5cf2bced4343bf840b53ed456e8
+  - enabled: 1
+    path: Assets/Project/Scenes/ChalkDemo.unity
+    guid: 2b2575f012aa94eba85a1f69dc2ba5ce
+  - enabled: 1
+    path: Assets/Project/Scenes/LanternDemo.unity
+    guid: fe08beacce0a24b5c95e90d1f0a28f7f
+  - enabled: 1
+    path: Assets/Project/Scenes/InstructionsScene.unity
+    guid: bc7bd0aed5adc42f080f26ba27842258
+  - enabled: 1
+    path: Assets/Project/Scenes/Game Over.unity
+    guid: 067ca9af62e754f86b4904449b596554
+  - enabled: 1
+    path: Assets/Project/Scenes/LanternInstructions.unity
+    guid: b18cf85514e5a470db33cca64b6d298d
+  - enabled: 1
+    path: Assets/Project/Scenes/ChalkInstructions.unity
+    guid: 3d14e8cb4245c4420bd6536bd10994ac
+  - enabled: 1
+    path: Assets/Project/Scenes/TutorialEnd.unity
+    guid: 000b9fe35e90f460f8d9970c6f974a20
+  - enabled: 1
+    path: Assets/Project/Scenes/LevelFour.unity
+    guid: fe94c8b87e23640b3be58ef7e673b7eb
+  - enabled: 1
+    path: Assets/Project/Scenes/LevelTwo.unity
+    guid: 308720974445747c7bd0181c7bd2e56d
+  - enabled: 1
+    path: Assets/Project/Scenes/LevelThree.unity
+    guid: 51b5fce87578b4f76acbf116f5f52165
+  - enabled: 1
+    path: Assets/Project/Scenes/End Scene.unity
+    guid: 198e5e61a1c724edcb3daab8aaec231a
+  - enabled: 1
+    path: Assets/Project/Scenes/LevelFive.unity
+    guid: 8d9214227bb1147028c38ba5287876f1
+  - enabled: 1
+    path: Assets/Project/Scenes/LevelOne.unity
+    guid: c5fa885be134043aab1446367aee7642
+  m_configObjects: {}

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{3B07B4FD-11AA-171E-EC68-A8E45559A64B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Project/Scripts/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/Project/ChalkDemoEnd.cs" Line="38" Column="6" />
+      <File FileName="Assets/Project/StoryScript.cs" />
+      <File FileName="Assets/Project/ChalkInstructionsScript.cs" Line="27" Column="6" />
+      <File FileName="Assets/Project/TutorialScript.cs" />
+      <File FileName="Assets/Project/Scripts/EndScript.cs" Line="23" Column="12" />
+      <File FileName="Assets/Project/Scripts/LevelOneEnd.cs" Line="23" Column="1" />
+      <File FileName="Assets/Project/Scripts/LevelFourScript.cs" Line="39" Column="42" />
+      <File FileName="Assets/Project/Scripts/LevelThreeEnd.cs" Line="39" Column="42" />
+      <File FileName="Assets/Project/Scripts/LevelFiveEnd.cs" Line="19" Column="18" />
+      <File FileName="Assets/Project/Scripts/PlayerMovement.cs" Line="9" Column="43" />
+      <File FileName="Assets/Project/Scripts/LanternScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My First 2D Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Labs" expanded="True">
+                <Node name="Lab1" expanded="True" />
+                <Node name="Lab10" expanded="True" />
+                <Node name="Lab2" expanded="True" />
+                <Node name="Lab3" expanded="True" />
+                <Node name="Lab4" expanded="True" />
+                <Node name="Lab5" expanded="True" />
+                <Node name="Lab6" expanded="True" />
+                <Node name="Lab7" expanded="True" />
+                <Node name="Lab9" expanded="True" />
+              </Node>
+              <Node name="Project" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerMovement.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="117ab58f-3fba-4bb8-ad16-2403512e147a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
